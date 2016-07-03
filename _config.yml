@@ -1,14 +1,14 @@
-layout_spectrum: 0.06591423018835485
+layout_spectrum: 0.06811668095178902
 typography_spectrum: 0.279684207867831
 color:
-  brandStrength: 0.6186927307862788
-  lightness: 0.928938961122185
-  saturation: 0.6800244788173586
-  rhythmicContrast: 0.0737448192667216
+  brandStrength: 0.3781997615005821
+  lightness: 0.8190229400061071
+  saturation: 0.9535666843876243
+  rhythmicContrast: 0.7723141307942569
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: CrazySlowNinja
