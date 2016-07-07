@@ -1,4 +1,3 @@
-layout_spectrum: 0.06811668095178902
 typography_spectrum: 0.279684207867831
 color:
   brandStrength: 0.981875468743965
@@ -11,4 +10,13 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+opengraph:
+  appId: 'https://www.facebook.com/crazyslowninja/'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/38cf58fd-d8c5-4397-8878-2ece213a8986.png
+layout_spectrum: 0.06811668095178902
+author:
+  name: Dave Sewell
+  email: shooting@crazyslowninja
+  url: www.crazyslowninja.com
 name: CrazySlowNinja
