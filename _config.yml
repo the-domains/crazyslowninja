@@ -1,15 +1,15 @@
 typography_spectrum: 0.279684207867831
 color:
-  brandStrength: 0.981875468743965
-  lightness: 0.37470896588638425
-  saturation: 0.01781532820314169
-  rhythmicContrast: 0.16342978598549962
+  brandStrength: 0.17921293899416924
+  lightness: 0.07051899912767112
+  saturation: 0.3601939855143428
+  rhythmicContrast: 0.13180113793350756
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
 opengraph:
   appId: 'https://www.facebook.com/crazyslowninja/'
   image: null
