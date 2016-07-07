@@ -12,11 +12,11 @@ color:
     - '#FD7400'
 opengraph:
   appId: 'https://www.facebook.com/crazyslowninja/'
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/38cf58fd-d8c5-4397-8878-2ece213a8986.png
+  image: null
 layout_spectrum: 0.06811668095178902
 author:
   name: Dave Sewell
   email: shooting@crazyslowninja
   url: www.crazyslowninja.com
 name: CrazySlowNinja
+title: The worst Xbox gamer in the world!
